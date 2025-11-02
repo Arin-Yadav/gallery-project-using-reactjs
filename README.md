@@ -30,8 +30,3 @@ git clone https://github.com/your-username/random-image-gallery.git
 cd random-image-gallery
 npm install
 npm start
-
-
-# Note
-- To use this Project first create a .env file in this folder 
-- In .env
