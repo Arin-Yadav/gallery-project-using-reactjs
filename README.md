@@ -26,7 +26,7 @@ A responsive gallery web app built with **React**, **Tailwind CSS**, and **Axios
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/random-image-gallery.git
+git clone https://github.com/Arin-Yadav/gallery-project-using-reactjs.git
 cd random-image-gallery
 npm install
 npm start
